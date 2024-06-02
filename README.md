@@ -7,7 +7,12 @@ This is a Web 3 Template Project for sCrypt Smart Contracts om BMV
 The following instructions will help you to setup the project from the current repo:
 
    ```
-	Create a new React Project:
+	Clone repo:
+
+		git clone https://github.com/carlosamcruz/Web3Template
+		cd Web3Template
+
+ Create a new React Project:
 
 		npx create-react-app webhelloworld --template typescript
 		cd webhelloworld
