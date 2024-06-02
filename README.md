@@ -7,7 +7,7 @@ This is a Web 3 Template Project for sCrypt Smart Contracts om BMV
 The following instructions will help you to setup the project from the current repo:
 
    ```
-	Clone repo:
+ Clone repo:
 
 		git clone https://github.com/carlosamcruz/Web3Template
 		cd Web3Template
