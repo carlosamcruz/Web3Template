@@ -51,7 +51,7 @@ The following instructions will help you to setup the project from the current r
 
 	Delete from projeto folder webhelloworld:
 
-		..\webhelloworld\scr
+		..\webhelloworld\src
 
 	Copy folder (in this repo):
 
@@ -59,7 +59,7 @@ The following instructions will help you to setup the project from the current r
 
 	Paste it into project folder:
 
-		..\webhelloworld\scr   
+		..\webhelloworld\src   
 
 	Compile the Project Contracts:
 
