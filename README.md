@@ -12,7 +12,7 @@ The following instructions will help you to setup the project from the current r
 		git clone https://github.com/carlosamcruz/Web3Template
 		cd Web3Template
 
- Create a new React Project:
+	Create a new React Project:
 
 		npx create-react-app webhelloworld --template typescript
 		cd webhelloworld
@@ -24,6 +24,10 @@ The following instructions will help you to setup the project from the current r
 			git add .
 			git commit -m "Initialize project using Creat React App"
 			npx scrypt-cli@latest init
+
+	Install:
+
+		npm install scrypt-ts-lib		//https://github.com/sCrypt-Inc/scrypt-ts-lib
 
 	Delete from node_mudules folders:
 
@@ -45,11 +49,6 @@ The following instructions will help you to setup the project from the current r
 		..\node_modules\node-polyfill-webpack-plugin
 		..\node_modules\filter-obj
 
-	Install:
-
-		npm install scrypt-ts-lib		//https://github.com/sCrypt-Inc/scrypt-ts-lib
-
-
 	Delete from projeto folder webhelloworld:
 
 		..\webhelloworld\scr
@@ -69,7 +68,6 @@ The following instructions will help you to setup the project from the current r
 	Run it in your pc:
 
 		npm start   
-
    ```
 
 "# Web 3 Template Project for sCrypt Smart Contracts" 
