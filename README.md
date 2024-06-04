@@ -25,10 +25,6 @@ The following instructions will help you to setup the project from the current r
 			git commit -m "Initialize project using Creat React App"
 			npx scrypt-cli@latest init
 
-	Install:
-
-		npm install scrypt-ts-lib		//https://github.com/sCrypt-Inc/scrypt-ts-lib
-
 	Delete from node_mudules folders:
 
 		..\node_modules\bsv
